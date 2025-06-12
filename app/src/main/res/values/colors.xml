@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#2196F3</color>
+    <color name="primary_dark_color">#1976D2</color>
+    <color name="accent_color">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="light_gray">#E0E0E0</color>
+    
+    <!-- Skeleton drawing colors -->
+    <color name="skeleton_joint_color">#FF0000</color>
+    <color name="skeleton_bone_color">#00FF00</color>
+    <color name="skeleton_arm_color">#0000FF</color>
+    <color name="skeleton_leg_color">#FFFF00</color>
+</resources>

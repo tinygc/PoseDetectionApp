@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pose Detection App</string>
+    <string name="camera_permission_denied">Camera permission is required</string>
+    <string name="pose_detection_title">姿勢検出</string>
+    <string name="reference_pose_title">リファレンスポーズ</string>
+    <string name="start_detection">検出開始</string>
+    <string name="stop_detection">検出停止</string>
+    <string name="record_dynamic_pose">動的ポーズ録画</string>
+    <string name="record_static_pose">静的ポーズ録画</string>
+    <string name="skeleton_display_on">骨格表示: ON</string>
+    <string name="skeleton_display_off">骨格表示: OFF</string>
+    <string name="countdown_5">5</string>
+    <string name="countdown_4">4</string>
+    <string name="countdown_3">3</string>
+    <string name="countdown_2">2</string>
+    <string name="countdown_1">1</string>
+    <string name="countdown_0">0</string>
+    <string name="score_grade_a">A</string>
+    <string name="score_grade_b">B</string>
+    <string name="score_grade_c">C</string>
+    <string name="score_grade_d">D</string>
+    <string name="score_grade_e">E</string>
+</resources>
