@@ -5,9 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/black"
-    tools:context=".MainActivity">
-
-    <!-- Left Side: Camera View -->
+    tools:context=".MainActivity">    <!-- Left Side: Camera View -->
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/cameraContainer"
         android:layout_width="0dp"

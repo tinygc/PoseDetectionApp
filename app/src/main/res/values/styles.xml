@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Base application theme for Android TV -->
+    <!-- Base application theme for Android TV with AppCompat support -->
+    <style name="Theme.PoseDetection" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryVariant">@color/primary_dark_color</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- For TV, we might want to hide the action bar -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    
+    <!-- Keep original Leanback theme as fallback -->
     <style name="Theme.Leanback" parent="Theme.Leanback.Browse">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/primary_color</item>

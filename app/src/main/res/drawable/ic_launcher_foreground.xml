@@ -10,7 +10,7 @@
         android:strokeWidth="4"/>
     <circle
         android:fillColor="@color/accent_color"
-        android:cx="54"
-        android:cy="54"
-        android:radius="8"/>
+        android:centerX="54"
+        android:centerY="54"
+        android:radius="8dp"/>
 </vector>

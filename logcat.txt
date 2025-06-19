@@ -1,0 +1,805 @@
+2025-06-13 18:02:37.916 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:37.972 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:38.076 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:38.104 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:38.238 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:38.245 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:38.373 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:38.399 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:38.504 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:38.557 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:38.636 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:38.717 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:38.772 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:38.874 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:38.904 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:39.036 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:39.185 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:39.271 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:39.277 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:39.277 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:39.305 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:39.358 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:39.366 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:39.366 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:39.438 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:39.520 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:39.525 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:39.526 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:39.574 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:39.615 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:39.624 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:39.624 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:39.706 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:39.717 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:39.723 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:39.723 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:39.781 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:39.786 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:39.787 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:39.837 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:39.892 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:39.901 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:39.901 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:39.972 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:40.025 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:40.031 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:40.031 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:40.104 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:40.152 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:40.157 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:40.158 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:40.224 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:40.241 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:40.283 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:40.287 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:40.287 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:40.297 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:40.360 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:40.419 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:40.423 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:40.424 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:40.430 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:40.504 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:40.530 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:40.537 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:40.537 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:40.548 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:40.637 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:40.704 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:40.709 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:40.709 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:40.732 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:40.775 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:40.812 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:40.817 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:40.817 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:40.832 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:40.906 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:40.981 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:40.986 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:40.987 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:40.998 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:41.042 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:41.090 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:41.098 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:41.099 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:41.115 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:41.180 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:41.221 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:41.225 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:41.226 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:41.249 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:41.306 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:41.351 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:41.357 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:41.358 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:41.370 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:41.438 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:41.479 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:41.488 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:41.489 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:41.498 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:41.572 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:41.615 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:41.620 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:41.620 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:41.632 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:41.706 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:41.747 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:41.753 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:41.753 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:41.765 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:41.835 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:41.863 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:41.867 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:41.867 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:41.881 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:41.973 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:41.993 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:41.997 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:41.997 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:42.015 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:42.108 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:42.147 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:42.153 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:42.154 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:42.165 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:42.236 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:42.260 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:42.263 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:42.263 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:42.281 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:42.371 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:42.389 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:42.393 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:42.393 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:42.414 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:42.503 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:42.528 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:42.533 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:42.533 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:42.546 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:42.636 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:42.656 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:42.660 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:42.660 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:42.680 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:42.773 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:42.787 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:42.790 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:42.790 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:42.798 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:42.903 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:42.936 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:42.938 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:42.939 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:42.947 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:43.036 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:43.053 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:43.055 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:43.056 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:43.063 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:43.172 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:43.191 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:43.196 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:43.196 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:43.213 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:43.304 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:43.341 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:43.345 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:43.345 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:43.365 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:43.436 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:43.455 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:43.457 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:43.458 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:43.464 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:43.571 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:43.586 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:43.589 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:43.589 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:43.596 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:43.704 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:43.726 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:43.729 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:43.729 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:43.748 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:43.836 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:43.863 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:43.866 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:43.867 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:43.880 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:43.971 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:43.994 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:43.998 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:43.998 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:44.013 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:44.102 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:44.129 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:44.132 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:44.133 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:44.149 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:44.234 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:44.257 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:44.260 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:44.260 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:44.280 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:44.375 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:44.380 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:44.383 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:44.383 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:44.397 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:44.503 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:44.533 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:44.535 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:44.535 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:44.547 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:44.636 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:44.645 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:44.650 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:44.650 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:44.665 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:44.772 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:44.785 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:44.788 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:44.788 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:44.797 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:44.904 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:44.923 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:44.928 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:44.928 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:44.953 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:45.036 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:45.050 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:45.053 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:45.053 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:45.062 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:45.172 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:45.174 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:45.178 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:45.178 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:45.201 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:45.304 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:45.320 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:45.324 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:45.324 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:45.329 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:45.436 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:45.454 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:45.457 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:45.457 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:45.462 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:45.548 12460-12460 MainActivity            com.posedetection.app                D  Mirror toggle pressed - current state: false
+2025-06-13 18:02:45.549 12460-12460 MainActivity            com.posedetection.app                D  Toggling mirror mode to: true
+2025-06-13 18:02:45.549 12460-12460 MainActivity            com.posedetection.app                D  Setting camera mirror mode to: true
+2025-06-13 18:02:45.549 12460-12460 CameraManager           com.posedetection.app                D  Setting mirror mode to: true
+2025-06-13 18:02:45.552 12460-12460 CameraManager           com.posedetection.app                D  Applied scale transformation: scaleX = -1.0
+2025-06-13 18:02:45.552 12460-12460 CameraManager           com.posedetection.app                D  PreviewView current scaleX: -1.0
+2025-06-13 18:02:45.553 12460-12460 CameraManager           com.posedetection.app                D  PreviewView dimensions: 960x1080
+2025-06-13 18:02:45.553 12460-12460 MainActivity            com.posedetection.app                D  Setting skeleton overlay mirror mode to: true
+2025-06-13 18:02:45.553 12460-12460 SkeletonOverlayView     com.posedetection.app                D  setMirrorMode called: true (current: false)
+2025-06-13 18:02:45.553 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Mirror mode set to: true
+2025-06-13 18:02:45.553 12460-12460 MainActivity            com.posedetection.app                D  Forced invalidate on skeletonOverlay
+2025-06-13 18:02:45.554 12460-12460 MainActivity            com.posedetection.app                D  SkeletonOverlay getMirrorMode() returns: true
+2025-06-13 18:02:45.559 12460-12460 Compatibil...geReporter com.posedetection.app                D  Compat change id reported: 147798919; UID 10263; state: ENABLED
+2025-06-13 18:02:45.573 12460-12460 MainActivity            com.posedetection.app                D  Started persistent mirror state monitoring
+2025-06-13 18:02:45.580 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:45.582  1152-1152  ndroid.systemu          com.android.systemui                 E  Failed to open APK '/data/app/~~BqZ5Vwywjyun-dfYIAiNAA==/com.posedetection.app-9aPzgR-dJq88B-QQ7VdzJw==/base.apk': I/O error
+2025-06-13 18:02:45.583  1152-1152  ndroid.systemu          com.android.systemui                 E  Failed to open APK '/data/app/~~BqZ5Vwywjyun-dfYIAiNAA==/com.posedetection.app-9aPzgR-dJq88B-QQ7VdzJw==/base.apk': I/O error
+2025-06-13 18:02:45.584  1152-1152  ResourcesManager        com.android.systemui                 E  failed to add asset path '/data/app/~~BqZ5Vwywjyun-dfYIAiNAA==/com.posedetection.app-9aPzgR-dJq88B-QQ7VdzJw==/base.apk'
+                                                                                                    java.io.IOException: Failed to load asset path /data/app/~~BqZ5Vwywjyun-dfYIAiNAA==/com.posedetection.app-9aPzgR-dJq88B-QQ7VdzJw==/base.apk
+                                                                                                    	at android.content.res.ApkAssets.nativeLoad(Native Method)
+                                                                                                    	at android.content.res.ApkAssets.<init>(ApkAssets.java:295)
+                                                                                                    	at android.content.res.ApkAssets.loadFromPath(ApkAssets.java:144)
+                                                                                                    	at android.app.ResourcesManager.loadApkAssets(ResourcesManager.java:454)
+                                                                                                    	at android.app.ResourcesManager.access$000(ResourcesManager.java:72)
+                                                                                                    	at android.app.ResourcesManager$ApkAssetsSupplier.load(ResourcesManager.java:168)
+                                                                                                    	at android.app.ResourcesManager.createAssetManager(ResourcesManager.java:530)
+                                                                                                    	at android.app.ResourcesManager.createResourcesImpl(ResourcesManager.java:612)
+                                                                                                    	at android.app.ResourcesManager.findOrCreateResourcesImplForKeyLocked(ResourcesManager.java:664)
+                                                                                                    	at android.app.ResourcesManager.createResources(ResourcesManager.java:1011)
+                                                                                                    	at android.app.ResourcesManager.getResources(ResourcesManager.java:1114)
+                                                                                                    	at android.app.ActivityThread.getTopLevelResources(ActivityThread.java:2372)
+                                                                                                    	at android.app.ApplicationPackageManager.getResourcesForApplication(ApplicationPackageManager.java:1751)
+                                                                                                    	at android.app.ApplicationPackageManager.getResourcesForApplication(ApplicationPackageManager.java:1737)
+                                                                                                    	at android.app.ApplicationPackageManager.getDrawable(ApplicationPackageManager.java:1506)
+                                                                                                    	at android.app.ApplicationPackageManager.loadUnbadgedItemIcon(ApplicationPackageManager.java:3029)
+                                                                                                    	at android.content.pm.PackageItemInfo.loadUnbadgedIcon(PackageItemInfo.java:290)
+                                                                                                    	at com.android.systemui.toast.SystemUIToast.getBadgedIcon(SystemUIToast.java:284)
+                                                                                                    	at com.android.systemui.toast.SystemUIToast.inflateToastView(SystemUIToast.java:198)
+                                                                                                    	at com.android.systemui.toast.SystemUIToast.<init>(SystemUIToast.java:90)
+                                                                                                    	at com.android.systemui.toast.SystemUIToast.<init>(SystemUIToast.java:77)
+                                                                                                    	at com.android.systemui.toast.ToastFactory.createToast(ToastFactory.java:78)
+                                                                                                    	at com.android.systemui.toast.ToastUI.lambda$showToast$0(ToastUI.java:113)
+                                                                                                    	at com.android.systemui.toast.ToastUI.$r8$lambda$w_gPCh3F8Xxn1jN4lkQZoUci71c(Unknown Source:0)
+                                                                                                    	at com.android.systemui.toast.ToastUI$$ExternalSyntheticLambda0.run(Unknown Source:16)
+                                                                                                    	at com.android.systemui.toast.ToastUI.showToast(ToastUI.java:140)
+                                                                                                    	at com.android.systemui.statusbar.CommandQueue$H.handleMessage(CommandQueue.java:1516)
+                                                                                                    	at android.os.Handler.dispatchMessage(Handler.java:106)
+                                                                                                    	at android.os.Looper.loopOnce(Looper.java:201)
+                                                                                                    	at android.os.Looper.loop(Looper.java:288)
+                                                                                                    	at android.app.ActivityThread.main(ActivityThread.java:7839)
+                                                                                                    	at java.lang.reflect.Method.invoke(Native Method)
+                                                                                                    	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+                                                                                                    	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+2025-06-13 18:02:45.600 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:45.683 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:45.684 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:45.684 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:45.688 12460-12460 MainActivity            com.posedetection.app                D  Mirror state monitoring - current isMirrorMode: true
+2025-06-13 18:02:45.689 12460-12460 CameraManager           com.posedetection.app                D  Setting mirror mode to: true
+2025-06-13 18:02:45.691 12460-12460 CameraManager           com.posedetection.app                D  Applied scale transformation: scaleX = -1.0
+2025-06-13 18:02:45.691 12460-12460 CameraManager           com.posedetection.app                D  PreviewView current scaleX: -1.0
+2025-06-13 18:02:45.692 12460-12460 CameraManager           com.posedetection.app                D  PreviewView dimensions: 960x1080
+2025-06-13 18:02:45.695 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:45.695 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:45.703 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:45.777 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:45.805 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:45.805 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:45.806 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:45.815 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:45.815 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:45.815 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:45.832 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:45.833 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:45.833 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:45.923 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:45.926 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:45.926 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:45.948 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:45.948 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:45.948 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:45.971 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:46.024 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:46.028 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:46.028 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:46.047 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:46.047 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:46.048 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:46.104 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:46.132 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:46.135 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:46.135 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:46.146 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:46.146 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:46.147 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:46.235 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:46.249 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:46.253 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:46.253 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:46.266 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:46.266 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:46.267 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:46.372 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:46.385 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:46.387 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:46.388 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:46.395 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:46.396 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:46.396 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:46.504 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:46.539 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:46.541 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:46.542 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:46.547 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:46.547 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:46.547 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:46.613 12460-12460 MainActivity            com.posedetection.app                D  Mirror toggle pressed - current state: true
+2025-06-13 18:02:46.614 12460-12460 MainActivity            com.posedetection.app                D  Toggling mirror mode to: false
+2025-06-13 18:02:46.614 12460-12460 MainActivity            com.posedetection.app                D  Setting camera mirror mode to: false
+2025-06-13 18:02:46.614 12460-12460 CameraManager           com.posedetection.app                D  Setting mirror mode to: false
+2025-06-13 18:02:46.617 12460-12460 CameraManager           com.posedetection.app                D  Applied scale transformation: scaleX = 1.0
+2025-06-13 18:02:46.618 12460-12460 CameraManager           com.posedetection.app                D  PreviewView current scaleX: 1.0
+2025-06-13 18:02:46.618 12460-12460 CameraManager           com.posedetection.app                D  PreviewView dimensions: 960x1080
+2025-06-13 18:02:46.618 12460-12460 MainActivity            com.posedetection.app                D  Setting skeleton overlay mirror mode to: false
+2025-06-13 18:02:46.618 12460-12460 SkeletonOverlayView     com.posedetection.app                D  setMirrorMode called: false (current: true)
+2025-06-13 18:02:46.618 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Mirror mode set to: false
+2025-06-13 18:02:46.619 12460-12460 MainActivity            com.posedetection.app                D  Forced invalidate on skeletonOverlay
+2025-06-13 18:02:46.619 12460-12460 MainActivity            com.posedetection.app                D  SkeletonOverlay getMirrorMode() returns: false
+2025-06-13 18:02:46.630 12460-12460 MainActivity            com.posedetection.app                D  Started persistent mirror state monitoring
+2025-06-13 18:02:46.654 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:46.714 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:46.717 12460-12460 MainActivity            com.posedetection.app                D  Mirror state monitoring - current isMirrorMode: false
+2025-06-13 18:02:46.717 12460-12460 CameraManager           com.posedetection.app                D  Setting mirror mode to: false
+2025-06-13 18:02:46.719 12460-12460 CameraManager           com.posedetection.app                D  Applied scale transformation: scaleX = 1.0
+2025-06-13 18:02:46.720 12460-12460 CameraManager           com.posedetection.app                D  PreviewView current scaleX: 1.0
+2025-06-13 18:02:46.720 12460-12460 CameraManager           com.posedetection.app                D  PreviewView dimensions: 960x1080
+2025-06-13 18:02:46.721 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:46.721 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:46.724 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:46.801 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:46.839 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:46.869 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:46.871 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:46.871 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:46.878 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:46.971 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:46.987 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:46.989 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:46.989 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:46.996 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:47.104 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:47.120 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:47.122 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:47.122 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:47.129 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:47.236 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:47.242 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:47.248 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:47.248 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:47.265 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:47.371 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:47.382 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:47.388 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:47.388 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:47.396 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:47.505 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:47.521 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:47.525 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: false, landmarks count: 33
+2025-06-13 18:02:47.525 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: false
+2025-06-13 18:02:47.546 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: false, landmarks: 33
+2025-06-13 18:02:47.608 12460-12460 MainActivity            com.posedetection.app                D  Mirror toggle pressed - current state: false
+2025-06-13 18:02:47.608 12460-12460 MainActivity            com.posedetection.app                D  Toggling mirror mode to: true
+2025-06-13 18:02:47.609 12460-12460 MainActivity            com.posedetection.app                D  Setting camera mirror mode to: true
+2025-06-13 18:02:47.609 12460-12460 CameraManager           com.posedetection.app                D  Setting mirror mode to: true
+2025-06-13 18:02:47.612 12460-12460 CameraManager           com.posedetection.app                D  Applied scale transformation: scaleX = -1.0
+2025-06-13 18:02:47.613 12460-12460 CameraManager           com.posedetection.app                D  PreviewView current scaleX: -1.0
+2025-06-13 18:02:47.613 12460-12460 CameraManager           com.posedetection.app                D  PreviewView dimensions: 960x1080
+2025-06-13 18:02:47.613 12460-12460 MainActivity            com.posedetection.app                D  Setting skeleton overlay mirror mode to: true
+2025-06-13 18:02:47.613 12460-12460 SkeletonOverlayView     com.posedetection.app                D  setMirrorMode called: true (current: false)
+2025-06-13 18:02:47.613 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Mirror mode set to: true
+2025-06-13 18:02:47.614 12460-12460 MainActivity            com.posedetection.app                D  Forced invalidate on skeletonOverlay
+2025-06-13 18:02:47.614 12460-12460 MainActivity            com.posedetection.app                D  SkeletonOverlay getMirrorMode() returns: true
+2025-06-13 18:02:47.623 12460-12460 MainActivity            com.posedetection.app                D  Started persistent mirror state monitoring
+2025-06-13 18:02:47.646 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:47.703 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:47.703 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:47.703 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:47.707 12460-12460 MainActivity            com.posedetection.app                D  Mirror state monitoring - current isMirrorMode: true
+2025-06-13 18:02:47.707 12460-12460 CameraManager           com.posedetection.app                D  Setting mirror mode to: true
+2025-06-13 18:02:47.710 12460-12460 CameraManager           com.posedetection.app                D  Applied scale transformation: scaleX = -1.0
+2025-06-13 18:02:47.710 12460-12460 CameraManager           com.posedetection.app                D  PreviewView current scaleX: -1.0
+2025-06-13 18:02:47.711 12460-12460 CameraManager           com.posedetection.app                D  PreviewView dimensions: 960x1080
+2025-06-13 18:02:47.715 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:47.715 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:47.717 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:47.776 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:47.776 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:47.777 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:47.836 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:47.856 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:47.860 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:47.860 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:47.879 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:47.879 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:47.879 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:47.972 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:47.991 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:47.995 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:47.997 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:48.013 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:48.013 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:48.013 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:48.105 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:48.132 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:48.135 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:48.135 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:48.148 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:48.148 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:48.148 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:48.171  1152-1152  ndroid.systemu          com.android.systemui                 E  Failed to open APK '/data/app/~~BqZ5Vwywjyun-dfYIAiNAA==/com.posedetection.app-9aPzgR-dJq88B-QQ7VdzJw==/base.apk': I/O error
+2025-06-13 18:02:48.174  1152-1152  ndroid.systemu          com.android.systemui                 E  Failed to open APK '/data/app/~~BqZ5Vwywjyun-dfYIAiNAA==/com.posedetection.app-9aPzgR-dJq88B-QQ7VdzJw==/base.apk': I/O error
+2025-06-13 18:02:48.181  1152-1152  ResourcesManager        com.android.systemui                 E  failed to add asset path '/data/app/~~BqZ5Vwywjyun-dfYIAiNAA==/com.posedetection.app-9aPzgR-dJq88B-QQ7VdzJw==/base.apk'
+                                                                                                    java.io.IOException: Failed to load asset path /data/app/~~BqZ5Vwywjyun-dfYIAiNAA==/com.posedetection.app-9aPzgR-dJq88B-QQ7VdzJw==/base.apk
+                                                                                                    	at android.content.res.ApkAssets.nativeLoad(Native Method)
+                                                                                                    	at android.content.res.ApkAssets.<init>(ApkAssets.java:295)
+                                                                                                    	at android.content.res.ApkAssets.loadFromPath(ApkAssets.java:144)
+                                                                                                    	at android.app.ResourcesManager.loadApkAssets(ResourcesManager.java:454)
+                                                                                                    	at android.app.ResourcesManager.access$000(ResourcesManager.java:72)
+                                                                                                    	at android.app.ResourcesManager$ApkAssetsSupplier.load(ResourcesManager.java:168)
+                                                                                                    	at android.app.ResourcesManager.createAssetManager(ResourcesManager.java:530)
+                                                                                                    	at android.app.ResourcesManager.createResourcesImpl(ResourcesManager.java:612)
+                                                                                                    	at android.app.ResourcesManager.findOrCreateResourcesImplForKeyLocked(ResourcesManager.java:664)
+                                                                                                    	at android.app.ResourcesManager.createResources(ResourcesManager.java:1011)
+                                                                                                    	at android.app.ResourcesManager.getResources(ResourcesManager.java:1114)
+                                                                                                    	at android.app.ActivityThread.getTopLevelResources(ActivityThread.java:2372)
+                                                                                                    	at android.app.ApplicationPackageManager.getResourcesForApplication(ApplicationPackageManager.java:1751)
+                                                                                                    	at android.app.ApplicationPackageManager.getResourcesForApplication(ApplicationPackageManager.java:1737)
+                                                                                                    	at android.app.ApplicationPackageManager.getDrawable(ApplicationPackageManager.java:1506)
+                                                                                                    	at android.app.ApplicationPackageManager.loadUnbadgedItemIcon(ApplicationPackageManager.java:3029)
+                                                                                                    	at android.content.pm.PackageItemInfo.loadUnbadgedIcon(PackageItemInfo.java:290)
+                                                                                                    	at com.android.systemui.toast.SystemUIToast.getBadgedIcon(SystemUIToast.java:284)
+                                                                                                    	at com.android.systemui.toast.SystemUIToast.inflateToastView(SystemUIToast.java:198)
+                                                                                                    	at com.android.systemui.toast.SystemUIToast.<init>(SystemUIToast.java:90)
+                                                                                                    	at com.android.systemui.toast.SystemUIToast.<init>(SystemUIToast.java:77)
+                                                                                                    	at com.android.systemui.toast.ToastFactory.createToast(ToastFactory.java:78)
+                                                                                                    	at com.android.systemui.toast.ToastUI.lambda$showToast$0(ToastUI.java:113)
+                                                                                                    	at com.android.systemui.toast.ToastUI.$r8$lambda$w_gPCh3F8Xxn1jN4lkQZoUci71c(Unknown Source:0)
+                                                                                                    	at com.android.systemui.toast.ToastUI$$ExternalSyntheticLambda0.run(Unknown Source:16)
+                                                                                                    	at com.android.systemui.toast.ToastUI$ToastOutAnimatorListener.onAnimationEnd(ToastUI.java:218)
+                                                                                                    	at android.animation.Animator$AnimatorListener.onAnimationEnd(Animator.java:555)
+                                                                                                    	at android.animation.AnimatorSet.endAnimation(AnimatorSet.java:1301)
+                                                                                                    	at android.animation.AnimatorSet.doAnimationFrame(AnimatorSet.java:1086)
+                                                                                                    	at android.animation.AnimationHandler.doAnimationFrame(AnimationHandler.java:146)
+                                                                                                    	at android.animation.AnimationHandler.access$100(AnimationHandler.java:37)
+                                                                                                    	at android.animation.AnimationHandler$1.doFrame(AnimationHandler.java:54)
+                                                                                                    	at android.view.Choreographer$CallbackRecord.run(Choreographer.java:1035)
+                                                                                                    	at android.view.Choreographer.doCallbacks(Choreographer.java:845)
+                                                                                                    	at android.view.Choreographer.doFrame(Choreographer.java:775)
+                                                                                                    	at android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1022)
+                                                                                                    	at android.os.Handler.handleCallback(Handler.java:938)
+                                                                                                    	at android.os.Handler.dispatchMessage(Handler.java:99)
+                                                                                                    	at android.os.Looper.loopOnce(Looper.java:201)
+                                                                                                    	at android.os.Looper.loop(Looper.java:288)
+                                                                                                    	at android.app.ActivityThread.main(ActivityThread.java:7839)
+                                                                                                    	at java.lang.reflect.Method.invoke(Native Method)
+                                                                                                    	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+                                                                                                    	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+2025-06-13 18:02:48.240 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:48.283 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:48.286 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:48.286 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:48.298 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:48.298 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:48.298 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:48.372 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:48.406 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:48.409 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:48.409 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:48.432 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:48.432 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:48.432 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:48.505 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:48.539 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:48.541 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:48.541 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:48.547 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:48.547 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:48.547 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:48.637 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:48.653 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:48.655 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:48.655 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:48.662 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:48.663 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:48.663 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:48.712 12460-12460 MainActivity            com.posedetection.app                D  Mirror state monitoring - current isMirrorMode: true
+2025-06-13 18:02:48.712 12460-12460 CameraManager           com.posedetection.app                D  Setting mirror mode to: true
+2025-06-13 18:02:48.715 12460-12460 CameraManager           com.posedetection.app                D  Applied scale transformation: scaleX = -1.0
+2025-06-13 18:02:48.716 12460-12460 CameraManager           com.posedetection.app                D  PreviewView current scaleX: -1.0
+2025-06-13 18:02:48.716 12460-12460 CameraManager           com.posedetection.app                D  PreviewView dimensions: 960x1080
+2025-06-13 18:02:48.785 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:48.793 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:48.793 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:48.796 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:48.814 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:48.814 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:48.814 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:48.902 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:48.946 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:48.949 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:48.949 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:48.963 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:48.963 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:48.963 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:49.035 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:49.054 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:49.056 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:49.056 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:49.062 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:49.062 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:49.062 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:49.172 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:49.176 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:49.179 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:49.179 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:49.197 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:49.197 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:49.198 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:49.303 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:49.324 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:49.328 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:49.328 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:49.345 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:49.345 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:49.345 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:49.436 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:49.453 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:49.455 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:49.455 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:49.463 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:49.463 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:49.463 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:49.572 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:49.576 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:49.578 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:49.578 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:49.596 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:49.596 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:49.596 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:49.703 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:49.718 12460-12460 MainActivity            com.posedetection.app                D  Mirror state monitoring - current isMirrorMode: true
+2025-06-13 18:02:49.718 12460-12460 CameraManager           com.posedetection.app                D  Setting mirror mode to: true
+2025-06-13 18:02:49.722 12460-12460 CameraManager           com.posedetection.app                D  Applied scale transformation: scaleX = -1.0
+2025-06-13 18:02:49.722 12460-12460 CameraManager           com.posedetection.app                D  PreviewView current scaleX: -1.0
+2025-06-13 18:02:49.722 12460-12460 CameraManager           com.posedetection.app                D  PreviewView dimensions: 960x1080
+2025-06-13 18:02:49.725 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:49.792 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:49.792 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:49.812 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:49.813 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:49.813 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:49.836 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:49.871 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:49.873 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:49.873 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:49.879 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:49.879 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:49.879 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:49.971 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:49.978 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:49.982 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:49.982 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:49.995 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:49.996 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:49.996 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:50.102 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:50.119 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:50.127 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:50.127 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:50.146 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:50.146 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:50.147 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:50.234 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:50.247 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:50.249 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:50.250 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:50.262 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:50.262 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:50.262 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:50.370 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:50.386 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:50.390 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:50.390 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:50.395 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:50.396 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:50.396 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:50.503 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:50.530 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:50.532 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:50.532 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:50.547 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:50.547 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:50.547 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:50.636 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:50.655 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:50.657 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:50.657 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:50.689 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:50.690 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:50.690 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:50.723 12460-12460 MainActivity            com.posedetection.app                D  Mirror state monitoring - current isMirrorMode: true
+2025-06-13 18:02:50.723 12460-12460 CameraManager           com.posedetection.app                D  Setting mirror mode to: true
+2025-06-13 18:02:50.726 12460-12460 CameraManager           com.posedetection.app                D  Applied scale transformation: scaleX = -1.0
+2025-06-13 18:02:50.727 12460-12460 CameraManager           com.posedetection.app                D  PreviewView current scaleX: -1.0
+2025-06-13 18:02:50.727 12460-12460 CameraManager           com.posedetection.app                D  PreviewView dimensions: 960x1080
+2025-06-13 18:02:50.755  1152-1152  ndroid.systemu          com.android.systemui                 E  Failed to open APK '/data/app/~~BqZ5Vwywjyun-dfYIAiNAA==/com.posedetection.app-9aPzgR-dJq88B-QQ7VdzJw==/base.apk': I/O error
+2025-06-13 18:02:50.756  1152-1152  ndroid.systemu          com.android.systemui                 E  Failed to open APK '/data/app/~~BqZ5Vwywjyun-dfYIAiNAA==/com.posedetection.app-9aPzgR-dJq88B-QQ7VdzJw==/base.apk': I/O error
+2025-06-13 18:02:50.757  1152-1152  ResourcesManager        com.android.systemui                 E  failed to add asset path '/data/app/~~BqZ5Vwywjyun-dfYIAiNAA==/com.posedetection.app-9aPzgR-dJq88B-QQ7VdzJw==/base.apk'
+                                                                                                    java.io.IOException: Failed to load asset path /data/app/~~BqZ5Vwywjyun-dfYIAiNAA==/com.posedetection.app-9aPzgR-dJq88B-QQ7VdzJw==/base.apk
+                                                                                                    	at android.content.res.ApkAssets.nativeLoad(Native Method)
+                                                                                                    	at android.content.res.ApkAssets.<init>(ApkAssets.java:295)
+                                                                                                    	at android.content.res.ApkAssets.loadFromPath(ApkAssets.java:144)
+                                                                                                    	at android.app.ResourcesManager.loadApkAssets(ResourcesManager.java:454)
+                                                                                                    	at android.app.ResourcesManager.access$000(ResourcesManager.java:72)
+                                                                                                    	at android.app.ResourcesManager$ApkAssetsSupplier.load(ResourcesManager.java:168)
+                                                                                                    	at android.app.ResourcesManager.createAssetManager(ResourcesManager.java:530)
+                                                                                                    	at android.app.ResourcesManager.createResourcesImpl(ResourcesManager.java:612)
+                                                                                                    	at android.app.ResourcesManager.findOrCreateResourcesImplForKeyLocked(ResourcesManager.java:664)
+                                                                                                    	at android.app.ResourcesManager.createResources(ResourcesManager.java:1011)
+                                                                                                    	at android.app.ResourcesManager.getResources(ResourcesManager.java:1114)
+                                                                                                    	at android.app.ActivityThread.getTopLevelResources(ActivityThread.java:2372)
+                                                                                                    	at android.app.ApplicationPackageManager.getResourcesForApplication(ApplicationPackageManager.java:1751)
+                                                                                                    	at android.app.ApplicationPackageManager.getResourcesForApplication(ApplicationPackageManager.java:1737)
+                                                                                                    	at android.app.ApplicationPackageManager.getDrawable(ApplicationPackageManager.java:1506)
+                                                                                                    	at android.app.ApplicationPackageManager.loadUnbadgedItemIcon(ApplicationPackageManager.java:3029)
+                                                                                                    	at android.content.pm.PackageItemInfo.loadUnbadgedIcon(PackageItemInfo.java:290)
+                                                                                                    	at com.android.systemui.toast.SystemUIToast.getBadgedIcon(SystemUIToast.java:284)
+                                                                                                    	at com.android.systemui.toast.SystemUIToast.inflateToastView(SystemUIToast.java:198)
+                                                                                                    	at com.android.systemui.toast.SystemUIToast.<init>(SystemUIToast.java:90)
+                                                                                                    	at com.android.systemui.toast.SystemUIToast.<init>(SystemUIToast.java:77)
+                                                                                                    	at com.android.systemui.toast.ToastFactory.createToast(ToastFactory.java:78)
+                                                                                                    	at com.android.systemui.toast.ToastUI.lambda$showToast$0(ToastUI.java:113)
+                                                                                                    	at com.android.systemui.toast.ToastUI.$r8$lambda$w_gPCh3F8Xxn1jN4lkQZoUci71c(Unknown Source:0)
+                                                                                                    	at com.android.systemui.toast.ToastUI$$ExternalSyntheticLambda0.run(Unknown Source:16)
+                                                                                                    	at com.android.systemui.toast.ToastUI$ToastOutAnimatorListener.onAnimationEnd(ToastUI.java:218)
+                                                                                                    	at android.animation.Animator$AnimatorListener.onAnimationEnd(Animator.java:555)
+                                                                                                    	at android.animation.AnimatorSet.endAnimation(AnimatorSet.java:1301)
+                                                                                                    	at android.animation.AnimatorSet.doAnimationFrame(AnimatorSet.java:1086)
+                                                                                                    	at android.animation.AnimationHandler.doAnimationFrame(AnimationHandler.java:146)
+                                                                                                    	at android.animation.AnimationHandler.access$100(AnimationHandler.java:37)
+                                                                                                    	at android.animation.AnimationHandler$1.doFrame(AnimationHandler.java:54)
+                                                                                                    	at android.view.Choreographer$CallbackRecord.run(Choreographer.java:1035)
+                                                                                                    	at android.view.Choreographer.doCallbacks(Choreographer.java:845)
+                                                                                                    	at android.view.Choreographer.doFrame(Choreographer.java:775)
+                                                                                                    	at android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1022)
+                                                                                                    	at android.os.Handler.handleCallback(Handler.java:938)
+                                                                                                    	at android.os.Handler.dispatchMessage(Handler.java:99)
+                                                                                                    	at android.os.Looper.loopOnce(Looper.java:201)
+                                                                                                    	at android.os.Looper.loop(Looper.java:288)
+                                                                                                    	at android.app.ActivityThread.main(ActivityThread.java:7839)
+                                                                                                    	at java.lang.reflect.Method.invoke(Native Method)
+                                                                                                    	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+                                                                                                    	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+2025-06-13 18:02:50.796 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:50.802 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:50.802 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:50.802 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:50.816 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:50.816 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:50.816 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:50.902 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:50.964 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:50.972 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:50.972 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:50.982 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:50.982 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:50.983 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:51.036 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:51.082 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:51.085 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:51.085 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:51.097 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:51.097 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:51.097 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:51.172 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:51.189 12460-12586 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:51.192 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:51.192 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:51.212 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:51.212 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:51.212 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:51.302 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:51.310 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:51.314 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:51.314 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:51.331 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:51.331 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:51.331 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:51.434 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:51.448 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:51.450 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:51.450 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:51.462 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:51.462 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:51.462 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:51.572 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:51.580 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:51.583 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:51.583 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:51.596 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:51.596 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:51.596 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:51.705 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:51.717 12460-12584 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:51.720 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:51.720 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:51.729 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:51.729 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:51.729 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:51.730 12460-12460 MainActivity            com.posedetection.app                D  Mirror state monitoring - current isMirrorMode: true
+2025-06-13 18:02:51.730 12460-12460 CameraManager           com.posedetection.app                D  Setting mirror mode to: true
+2025-06-13 18:02:51.732 12460-12460 CameraManager           com.posedetection.app                D  Applied scale transformation: scaleX = -1.0
+2025-06-13 18:02:51.733 12460-12460 CameraManager           com.posedetection.app                D  PreviewView current scaleX: -1.0
+2025-06-13 18:02:51.733 12460-12460 CameraManager           com.posedetection.app                D  PreviewView dimensions: 960x1080
+2025-06-13 18:02:51.835 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:51.856 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:51.859 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:51.859 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:51.879 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:51.879 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:51.879 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:51.971 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:51.985 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:51.987 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:51.987 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:51.995 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:51.995 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:51.996 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:52.104 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:52.117 12460-12585 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:52.120 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:52.120 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:52.130 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:52.130 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:52.130 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:52.235 12460-12597 skia                    com.posedetection.app                D  onFlyCompress
+2025-06-13 18:02:52.252 12460-12583 PoseDetector            com.posedetection.app                D  Pose detection result received
+2025-06-13 18:02:52.255 12460-12460 MainActivity            com.posedetection.app                D  handlePoseDetected - isMirrorMode: true, landmarks count: 33
+2025-06-13 18:02:52.255 12460-12460 SkeletonOverlayView     com.posedetection.app                D  updateLandmarks called with 33 landmarks, mirror mode: true
+2025-06-13 18:02:52.262 12460-12460 SkeletonOverlayView     com.posedetection.app                D  onDraw called - isMirrorMode: true, landmarks: 33
+2025-06-13 18:02:52.262 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Applying mirror transformation in onDraw (width: 960, height: 1080)
+2025-06-13 18:02:52.262 12460-12460 SkeletonOverlayView     com.posedetection.app                D  Canvas state restored after mirror transformation
+2025-06-13 18:02:52.370 12460-12597 skia                    com.posedetection.app                D  onFlyCompress

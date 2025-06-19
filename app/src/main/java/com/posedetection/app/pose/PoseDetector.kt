@@ -3,6 +3,7 @@ package com.posedetection.app.pose
 import android.content.Context
 import android.graphics.Bitmap
 import android.graphics.PointF
+import android.util.Log
 import com.google.mediapipe.framework.image.BitmapImageBuilder
 import com.google.mediapipe.framework.image.MPImage
 import com.google.mediapipe.tasks.core.BaseOptions
@@ -13,6 +14,8 @@ import com.google.mediapipe.tasks.vision.poselandmarker.PoseLandmarkerResult
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
+import java.io.File
+import java.io.IOException
 
 class PoseDetector(
     private val context: Context,
@@ -23,36 +26,120 @@ class PoseDetector(
     private var poseLandmarker: PoseLandmarker? = null
     private var isInitialized = false
     private val coroutineScope = CoroutineScope(Dispatchers.Main)
-    
-    companion object {
+      companion object {
+        private const val TAG = "PoseDetector"
         private const val MODEL_FILE = "pose_landmarker.task"
         private const val TARGET_FPS = 10 // As specified in requirements
-    }
-    
-    fun initialize() {
+    }    fun initialize() {
         coroutineScope.launch(Dispatchers.IO) {
             try {
+                Log.d(TAG, "Starting pose detector initialization")
+                
+                // Check if asset file exists first
+                checkAssetFile()
+                
+                // Copy asset file to internal storage for more reliable access
+                val modelFile = copyAssetToInternalStorage()
+                
+                Log.d(TAG, "Creating base options with model file: ${modelFile.absolutePath}")
                 val baseOptions = BaseOptions.builder()
-                    .setModelAssetPath(MODEL_FILE)
+                    .setModelAssetPath(MODEL_FILE) // Keep using asset path first
+                    .build()
+                
+                Log.d(TAG, "Creating pose landmarker options")
+                val options = PoseLandmarkerOptions.builder()
+                    .setBaseOptions(baseOptions)
+                    .setRunningMode(RunningMode.LIVE_STREAM)
+                    .setResultListener { result: PoseLandmarkerResult, _: MPImage ->
+                        Log.d(TAG, "Pose detection result received")
+                        handlePoseResult(result)
+                    }
+                    .setErrorListener { error: RuntimeException ->
+                        Log.e(TAG, "Pose detection runtime error", error)
+                        onError("Pose detection error: ${error.message}")
+                    }
+                    .build()
+                
+                Log.d(TAG, "Creating PoseLandmarker from options")
+                poseLandmarker = PoseLandmarker.createFromOptions(context, options)
+                isInitialized = true
+                
+                Log.d(TAG, "Pose detector initialization completed successfully")
+                
+            } catch (e: Exception) {
+                Log.e(TAG, "Failed to initialize pose detector", e)
+                // Try alternative initialization with file path
+                tryAlternativeInitialization(e)
+            }
+        }
+    }
+    
+    private fun copyAssetToInternalStorage(): File {
+        val modelFile = File(context.filesDir, MODEL_FILE)
+        if (!modelFile.exists()) {
+            context.assets.open(MODEL_FILE).use { inputStream ->
+                modelFile.outputStream().use { outputStream ->
+                    inputStream.copyTo(outputStream)
+                }
+            }
+            Log.d(TAG, "Asset file copied to internal storage: ${modelFile.absolutePath}")
+        }
+        return modelFile
+    }
+    
+    private fun tryAlternativeInitialization(originalException: Exception) {
+        coroutineScope.launch(Dispatchers.IO) {
+            try {
+                Log.d(TAG, "Trying alternative initialization method")
+                
+                val modelFile = copyAssetToInternalStorage()
+                
+                val baseOptions = BaseOptions.builder()
+                    .setModelAssetPath(modelFile.absolutePath)
                     .build()
                 
                 val options = PoseLandmarkerOptions.builder()
                     .setBaseOptions(baseOptions)
                     .setRunningMode(RunningMode.LIVE_STREAM)
-                    .setResultListener(PoseLandmarker.ResultListener { result, inputImage ->
+                    .setResultListener { result: PoseLandmarkerResult, _: MPImage ->
+                        Log.d(TAG, "Pose detection result received (alternative method)")
                         handlePoseResult(result)
-                    })
-                    .setErrorListener(PoseLandmarker.ErrorListener { error ->
+                    }
+                    .setErrorListener { error: RuntimeException ->
+                        Log.e(TAG, "Pose detection runtime error (alternative method)", error)
                         onError("Pose detection error: ${error.message}")
-                    })
+                    }
                     .build()
                 
                 poseLandmarker = PoseLandmarker.createFromOptions(context, options)
                 isInitialized = true
                 
+                Log.d(TAG, "Alternative pose detector initialization completed successfully")
+                
             } catch (e: Exception) {
-                onError("Failed to initialize pose detector: ${e.message}")
+                Log.e(TAG, "Alternative initialization also failed", e)
+                onError("Failed to initialize pose detector (both methods failed):\nOriginal: ${originalException.message}\nAlternative: ${e.message}")
             }
+        }
+    }
+      private fun checkAssetFile() {
+        try {
+            Log.d(TAG, "Checking asset file: $MODEL_FILE")
+            val inputStream = context.assets.open(MODEL_FILE)
+            val size = inputStream.available()
+            inputStream.close()
+            Log.d(TAG, "Asset file $MODEL_FILE found. Size: $size bytes")
+            
+            // Also list all assets to verify structure
+            val assetList = context.assets.list("")
+            Log.d(TAG, "Available assets: ${assetList?.joinToString(", ")}")
+            
+        } catch (e: IOException) {
+            Log.e(TAG, "Asset file $MODEL_FILE not found", e)
+            throw RuntimeException("Asset file $MODEL_FILE not found or cannot be opened: ${e.message}")
+        } catch (e: Exception) {
+            Log.e(TAG, "Unexpected error checking asset file", e)
+            throw RuntimeException("Unexpected error checking asset file: ${e.message}")
         }
     }
     
@@ -84,13 +171,16 @@ class PoseDetector(
             }
         }
     }
+      // These values should be set based on the actual camera preview size
+    private var imageWidth: Float = 640f
+    private var imageHeight: Float = 480f
     
-    // These values should be set based on the actual camera preview size
-    private fun getImageWidth(): Float = 640f // TODO: Get actual preview width
-    private fun getImageHeight(): Float = 480f // TODO: Get actual preview height
+    private fun getImageWidth(): Float = imageWidth
+    private fun getImageHeight(): Float = imageHeight
     
     fun updateImageSize(width: Float, height: Float) {
-        // TODO: Store actual image dimensions for coordinate conversion
+        imageWidth = width
+        imageHeight = height
     }
     
     fun release() {

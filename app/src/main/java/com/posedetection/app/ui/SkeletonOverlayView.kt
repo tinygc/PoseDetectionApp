@@ -5,6 +5,7 @@ import android.graphics.Canvas
 import android.graphics.Paint
 import android.graphics.PointF
 import android.util.AttributeSet
+import android.util.Log
 import android.view.View
 import androidx.core.content.ContextCompat
 import com.posedetection.app.R
@@ -13,10 +14,14 @@ class SkeletonOverlayView @JvmOverloads constructor(
     context: Context,
     attrs: AttributeSet? = null,
     defStyleAttr: Int = 0
-) : View(context, attrs, defStyleAttr) {
-
-    private var isSkeletonVisible = false
+) : View(context, attrs, defStyleAttr) {    private var isSkeletonVisible = false
+    @Volatile
+    private var isMirrorMode = false
     private var landmarks: List<PointF> = emptyList()
+    
+    companion object {
+        private const val TAG = "SkeletonOverlayView"
+    }
     
     private val jointPaint = Paint().apply {
         color = ContextCompat.getColor(context, R.color.skeleton_joint_color)
@@ -38,8 +43,7 @@ class SkeletonOverlayView @JvmOverloads constructor(
         strokeWidth = 4f
         isAntiAlias = true
     }
-    
-    private val legPaint = Paint().apply {
+      private val legPaint = Paint().apply {
         color = ContextCompat.getColor(context, R.color.skeleton_leg_color)
         style = Paint.Style.STROKE
         strokeWidth = 4f
@@ -48,12 +52,21 @@ class SkeletonOverlayView @JvmOverloads constructor(
 
     fun updateLandmarks(newLandmarks: List<PointF>) {
         landmarks = newLandmarks
-        invalidate()
-    }
-    
+        Log.d(TAG, "updateLandmarks called with ${newLandmarks.size} landmarks, mirror mode: $isMirrorMode")
+        invalidate()    }
+
     fun setSkeletonVisibility(visible: Boolean) {
         isSkeletonVisible = visible
         invalidate()
+    }
+
+    fun setMirrorMode(enabled: Boolean) {
+        Log.d(TAG, "setMirrorMode called: $enabled (current: $isMirrorMode)")
+        isMirrorMode = enabled
+        Log.d(TAG, "Mirror mode set to: $isMirrorMode")
+        invalidate()
+    }    fun getMirrorMode(): Boolean {
+        return isMirrorMode
     }
 
     override fun onDraw(canvas: Canvas) {
@@ -63,9 +76,25 @@ class SkeletonOverlayView @JvmOverloads constructor(
             return
         }
         
+        // 詳細なデバッグログを追加
+        Log.d(TAG, "onDraw called - isMirrorMode: $isMirrorMode, landmarks: ${landmarks.size}")
+
+        // Apply mirror transformation if enabled
+        if (isMirrorMode) {
+            Log.d(TAG, "Applying mirror transformation in onDraw (width: $width, height: $height)")
+            canvas.save()
+            canvas.scale(-1f, 1f, width / 2f, height / 2f)
+        }
+        
         // Draw skeleton connections based on MediaPipe pose landmarks
         drawSkeletonConnections(canvas)
         drawJoints(canvas)
+        
+        // Restore canvas state if mirror mode was applied
+        if (isMirrorMode) {
+            canvas.restore()
+            Log.d(TAG, "Canvas state restored after mirror transformation")
+        }
     }
     
     private fun drawSkeletonConnections(canvas: Canvas) {
